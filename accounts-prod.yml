@@ -7,7 +7,7 @@ accounts:
  message: "Welcome to NanaBank accounts related prod APIs"
  contactDetails:
   name: "Kyeyune Jonathan-QA product Owner"
-  email: "kyeyunejonathan001@gmail.com"
+  email: "{cipher}87e64faf1c5262bf8654fb532aef47599f951a678e67a22e1814701ad8bfc381e6e2e24a23ac58a79690f008836433fd"
  onCallSupport:
   -(100)505-1034
   -(100)503-1045
