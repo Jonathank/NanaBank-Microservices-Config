@@ -4,7 +4,7 @@ build:
 
 
 accounts:
- message: "Welcome to NanaBank accounts related local APIs"
+ message: "Welcome to NanaBank accounts related local (default profile) APIs"
  contactDetails:
   name: "Kyeyune Jonathan"
   email: "{cipher}87e64faf1c5262bf8654fb532aef47599f951a678e67a22e1814701ad8bfc381e6e2e24a23ac58a79690f008836433fd"
